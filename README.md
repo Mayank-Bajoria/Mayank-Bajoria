@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Mayank Bajoria Banner">
+</p>
+
 # Hi there, I'm Mayank Bajoria 👋
 
 ### AI Engineer in Progress • Full Stack Builder • Open Source Contributor
