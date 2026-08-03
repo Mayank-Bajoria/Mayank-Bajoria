@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Mayank Bajoria Banner" width="100%">
+  <img src="./Banner.png" alt="Mayank Bajoria Banner" width="100%">
 </p>
 
 # Hi there, I'm Mayank Bajoria 👋
