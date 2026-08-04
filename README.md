@@ -62,5 +62,5 @@ I believe the best way to learn is by building projects and solving problems con
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayank-Bajoria&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mayank-Bajoria&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 </p>
